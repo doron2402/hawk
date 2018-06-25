@@ -19,7 +19,7 @@
     "hoek": "1.x.x",
     "boom": "1.x.x",
     "cryptiles": "1.x.x",
-    "sntp": "1.x.x"
+    "sntp": "2.0.1"
   },
   "devDependencies": {
     "lab": "1.x.x",
