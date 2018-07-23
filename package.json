@@ -18,7 +18,7 @@
   "dependencies": {
     "hoek": "1.x.x",
     "boom": "1.x.x",
-    "cryptiles": "1.x.x",
+    "cryptiles": "4.1.2",
     "sntp": "1.x.x"
   },
   "devDependencies": {
